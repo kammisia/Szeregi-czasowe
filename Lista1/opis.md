@@ -1,4 +1,4 @@
-Główne tematy poruszone w pliku:
+Główne tematy poruszone w pliku lista1.ipynb:
 
 1. Tworzenie wykresu rozproszenia dla danych z podanej strony, z pierwszą kolumną jako zmienną objaśniającą, a drugą jako zmienną objaśnianą oraz znalezienie przybliżonej zależności funkcyjnej między danymi.
 2. Wygładzanie danych za pomocą prostej średniej ruchomej o różnych podstawach i tworzenie odpowiednich wykresów.
