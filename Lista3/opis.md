@@ -1,7 +1,7 @@
 Plik lista3.ipynb skupia się na analizie modeli regresji liniowej oraz konstrukcji przedziałów ufności. Oto szczegółowy opis tematów poruszonych w pliku:
 1. Model regresji liniowej:
 - Konstrukcja przedziałów ufności dla parametrów β _0 i β_1 na poziomie ufności α.
-- Analiza przedziałów ufności przy różnych długościach prób n, poziomach ufności α∈{0.01,0.05} oraz wariancjach σ∈{0.01,0.5,1}.
+- Analiza przedziałów ufności przy różnych długościach prób n, poziomach ufności α∈{0.01, 0.05} oraz wariancjach σ∈{0.01, 0.5,1}.
 - Sprawdzenie prawdopodobieństwa, że teoretyczne wartości parametrów należą do wyznaczonych przedziałów ufności za pomocą symulacji Monte Carlo.
 - W symulacjach przyjęto, że x_i = i dla każdego i=1,2,…,n.
 2. Konstrukcja przedziałów ufności przy nieznanej wariancji σ:
