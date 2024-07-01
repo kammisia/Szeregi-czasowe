@@ -6,6 +6,6 @@ Foldery z listami posiadają:
 - plik MD zawierający opis poszczególnych list.
 
 Folder z raportem posiada:
-- pliki CSV zawierające dane potrzebne do analizy
-- plik Jupyter Notebook zawierający kod z analizą
-- plik MD zawierający opis raportu
+- pliki CSV zawierające dane potrzebne do analizy,
+- plik Jupyter Notebook zawierający kod z analizą,
+- plik MD zawierający opis raportu.
