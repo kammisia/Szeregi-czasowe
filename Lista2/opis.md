@@ -3,7 +3,7 @@ Plik lista2.ipynb skupia się na zaawansowanych metodach statystycznych i symula
 1. Klasyczny model regresji:
 - Wyznaczanie empirycznych wartości oczekiwanej i wariancji estymatorów β_0 oraz β_1 za pomocą symulacji Monte Carlo dla różnych wartości stopni swobody ν i liczby obserwacji n.
 - Analiza wpływu ν i n na poprawność estymatorów.
-- Porównanie wyników przy założeniu rozkładu normalnego N(0,σ^2).
+- Porównanie wyników przy założeniu rozkładu normalnego N(0, σ^2).
 2. Model regresji z rozkładem normalnym:
 - Wyznaczanie estymatora β_1 metodą najmniejszych kwadratów.
 - Sprawdzenie nieobciążoności estymatora β_1.
