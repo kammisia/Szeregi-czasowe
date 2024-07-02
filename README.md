@@ -1,4 +1,4 @@
-# Szeregi-czasowe
+# Szeregi czasowe
 Komputerowa analiza szeregów czasowych
 
 Foldery z listami posiadają:
