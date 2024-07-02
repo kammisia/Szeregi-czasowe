@@ -9,3 +9,4 @@ Raport dotyczy analizy kursów akcji dwóch polskich banków - ING Bank Śląski
 - Filtrowanie danych w celu usunięcia wartości odstających i ponowne dopasowanie modelu.
 4. Przedziały ufności:
 - Wyznaczenie przedziałów ufności dla współczynników regresji przy założonym poziomie istotności.
+5. Predykcja przyszłych wartości.
